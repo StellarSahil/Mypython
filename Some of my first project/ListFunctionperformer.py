@@ -30,7 +30,7 @@ def remove_from_list():
     if n in l1:
         l1.remove(n)
     else:
-        print(f"{n} is not in the list.")
+        print(f"{n} is not in the list")
 
 a = -1
 print("What would you like to do with the List?")
